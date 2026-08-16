@@ -1,4 +1,4 @@
-# Python cache
+# Python
 __pycache__/
 *.py[cod]
 
@@ -6,21 +6,23 @@ __pycache__/
 .venv/
 venv/
 env/
-ENV/
 
 # VS Code
 .vscode/
 
+# Dev Container
+.devcontainer/
+
 # Jupyter
 .ipynb_checkpoints/
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Environment variables / secrets
+# Environment / secrets
 .env
 .env.*
 
-# Streamlit local secrets
+# Streamlit secrets
 .streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
