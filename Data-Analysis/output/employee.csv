@@ -1,0 +1,13 @@
+EmployeeID,FirstName,LastName,Email,Age,Salary,HireDate,DepartmentID,managerid
+1,Ahmed,Ali,ahmed@company.com,28,18000.0,2022-01-15,1,
+2,Mona,Hassan,mona@company.com,32,25000.0,2021-06-10,2,
+3,Omar,Khaled,omar@company.com,26,15000.0,2023-03-20,1,
+4,Sara,Mahmoud,sara@company.com,30,22000.0,2022-11-05,3,
+5,Youssef,Samir,youssef@company.com,24,12000.0,2024-01-12,5,
+6,Nour,Tarek,nour@company.com,27,17000.0,2023-07-01,4,
+7,Karim,Adel,karim@company.com,35,30000.0,2020-02-20,1,
+8,Hana,Mostafa,hana@company.com,29,19500.0,2022-09-12,5,
+9,Amr,Said,amr@company.com,31,21000.0,2021-12-01,3,
+10,Laila,Omar,laila@company.com,25,13000.0,2024-04-15,2,
+11,Tamer,Fathy,tamer@company.com,38,35000.0,2019-08-01,1,
+12,Dina,Ashraf,dina@company.com,23,11000.0,2025-01-10,5,
